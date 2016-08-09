@@ -12,7 +12,7 @@
 #   hubot pizza party- Show a pizza gif
 #
 # Author:
-#   Eric Z Goodnight
+#   Eric Z Goodnight based on iangreenleaf
 
 tumblr = require 'tumblrbot'
 PIZZA = "pizzagifs.tumblr.com"
